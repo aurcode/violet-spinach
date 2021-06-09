@@ -28,7 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Aurelio Márquez - Data Science
+  title: Aurelio Márquez - Data Scientist
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
