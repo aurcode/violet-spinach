@@ -4,7 +4,9 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: >
+      Have a question, comment or suggestion? Please fill this contact form and
+      I will get back to you soon!
     form_id: contactForm
     form_action: /thank-you
     form_fields:
