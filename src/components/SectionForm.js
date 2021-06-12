@@ -26,7 +26,7 @@ export default class SectionForm extends React.Component {
                     <form
                         name={formId}
                         id={formId}
-                        {...(formAction ? ({ action: '/thanks-you' }) : null)}
+                        {...(formAction ? ({ action: '/thank-you' }) : null)}
                         method="POST"
                         data-netlify="true"
                         data-netlify-honeypot={formHoneypotName}
