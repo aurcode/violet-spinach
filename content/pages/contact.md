@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Have a question, comment or suggestion? Please fill this contact form and
-      I will get back to you soon!
+      ¿Tiene alguna pregunta, comentario o sugerencia? Rellene este formulario
+      de contacto y me pondré en contacto con usted en breve.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
