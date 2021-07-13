@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Aurelio Márquez.'
+    title: 'Hola, Soy Aurelio Márquez.'
     content: |
       #### I love Data Storytelling & Machine Learning. Have fun exploring!
   - section_id: about
