@@ -22,7 +22,7 @@ sections:
         name: message
         label: Mensaje *
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
 seo:
   title: Contact
   description: This is the contact page
