@@ -19,7 +19,7 @@ sections:
         name: email
         default_value: Tu dirección de correo electrónico
         is_required: true
-        label: Correo electrónico
+        label: Correo electrónico *
       - input_type: textarea
         name: message
         label: Mensaje *
