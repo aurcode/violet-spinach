@@ -22,7 +22,7 @@ sections:
         label: Correo electrónico
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje *
         default_value: Your message
     submit_label: Send Message
 seo:
