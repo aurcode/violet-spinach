@@ -7,6 +7,11 @@ sections:
     content: >
       ¿Tiene alguna pregunta, comentario o sugerencia? Rellene este formulario
       de contacto y me pondré en contacto con usted en breve.
+
+
+
+
+      aurelio3927@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
