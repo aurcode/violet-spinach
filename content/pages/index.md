@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hola, Soy Aurelio Márquez.'
     content: |
-      I love Data Storytelling & Machine Learning. Have fun exploring!
+      Me encanta Data Storytelling & Machine Learning. ¡Diviértete explorando!
   - section_id: about
     type: section_content
     title: About
