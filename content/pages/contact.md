@@ -23,7 +23,6 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje *
-        default_value: Your message
     submit_label: Send Message
 seo:
   title: Contact
