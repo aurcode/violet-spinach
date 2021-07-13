@@ -17,7 +17,6 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        default_value: Tu dirección de correo electrónico
         is_required: true
         label: Correo electrónico *
       - input_type: textarea
